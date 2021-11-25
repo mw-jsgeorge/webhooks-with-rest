@@ -26,4 +26,4 @@ Webhooks are valuable tools for powering real-time integrations and workflows in
 
 ## :woman_technologist: Workshop
 
-You'll find everything else you need for the workshop in [workshop.md](workshop.md)
+You'll find everything else you need for the workshop in [workshop.md](workshop.md)  
